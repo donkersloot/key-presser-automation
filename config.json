@@ -1,0 +1,46 @@
+{
+    "description": "Example AutoClicker Sequence",
+    "hotkey": "<f8>",
+    "actions": [
+        {
+            "type": "pause",
+            "duration": 1.0
+        },
+        {
+            "type": "click",
+            "button": "left",
+            "hold_time": 1.5
+        },
+        {
+            "type": "pause",
+            "duration": 1.0
+        },
+        {
+            "type": "click",
+            "button": "left",
+            "hold_time": 1.5
+        },
+        {
+            "type": "pause",
+            "duration": 1.0
+        },
+        {
+            "type": "click",
+            "button": "left",
+            "hold_time": 1.5
+        },
+        {
+            "type": "pause",
+            "duration": 1.0
+        },
+        {
+            "type": "click",
+            "button": "left",
+            "hold_time": 1.5
+        },
+        {
+            "type": "pause",
+            "duration": 15.0
+        }
+    ]
+}
